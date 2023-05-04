@@ -1,0 +1,21 @@
+.header {
+    background-color: black;
+}
+
+.middle {
+    background-color: #ffcdd2;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+.bottom {
+    background-color: #2941ab;
+    text-align: center;
+}
+.button {
+    border: 2px solid black;
+}
+
+footer{
+    background-color: black;
+
+}
